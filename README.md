@@ -1,6 +1,6 @@
 # Alexander Araldi | Desenvolvedor em Formação
 
-Olá! Sou Alexander Araldi, desenvolvedor em transição com 15+ anos de experiência em vendas e gestão. Apaixonado por tecnologia, estou cursando desde março/2025 a | Academia do Programador Full Stack | Jovem Programado - Senac | , focado em C#, SQL, HTML e CSS.
+Olá! Sou Alexander Araldi, desenvolvedor em transição com 15+ anos de experiência em vendas e gestão. Apaixonado por tecnologia, estou cursando desde março/2025 a |Academia do Programador Full Stack | Jovem Programado - Senac| , focado em C#, SQL, HTML e CSS.
 - https://academiadoprogramador.net/inicio
 - https://www.jovemprogramador.com.br/
 
