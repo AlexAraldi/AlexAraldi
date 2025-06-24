@@ -9,7 +9,8 @@ Olá! Sou Alexander Araldi, desenvolvedor em transição com 15+ anos de experi�
 - **[GestaoDeEquipamentos](https://github.com/AlexAraldi/GestaoDeEquipamentos)**: Aplicação para gerenciamento de equipamentos, focada em organização e manutenção, usando C# e SQL.
 - **[ClassificacaodeTriangulo](https://github.com/alexaraldi/ClassificacaodeTriangulo)**: Sistema em C# que classifica triângulos, aplicando POO.
 - **[Controle-de-Medicamentos](https://github.com/alexaraldi/Controle-de-Medicamentos)**: Aplicação para gestão de medicamentos, com interface em console.
-- **Marketplace Turístico**: Protótipo de site para ofertas turísticas em Lages-SC, desenvolvido no HackathOrion - (https://www.orionparque.com/hackathorion/).
+- **[Entreveiro-de-Ofertas](https://github.com/AlexAraldi/Entreveiro-de-Ofertas)**: Protótipo de site para ofertas turísticas em Lages-SC, desenvolvido no HackathOrion - (https://www.orionparque.com/hackathorion/).
+- **[E-Agenda](https://github.com/AlexAraldi/E-Agenda)**: E-Agenda é uma aplicação web desenvolvida em ASP.NET Core MVC, projetada para gerenciar contatos, compromissos, categorias, despesas e tarefas de forma integrada e eficiente.
 
 ## Habilidades
 - **Técnicas**: C#, SQL, HTML, CSS, Python, Power BI, JavaScript, Visual Studio, .NET, Git
