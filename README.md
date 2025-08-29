@@ -13,8 +13,8 @@ Olá! Sou Alexander Araldi, desenvolvedor em transição com 15+ anos de experi�
 - **[E-Agenda](https://github.com/AlexAraldi/E-Agenda)**: E-Agenda é uma aplicação web desenvolvida em ASP.NET Core MVC, projetada para gerenciar contatos, compromissos, categorias, despesas e tarefas de forma integrada e eficiente.
 
 ## Habilidades
-- **Técnicas**: C#, SQL, HTML, CSS, Python, Power BI, JavaScript, Visual Studio, .NET, Git
-- **Comportamentais**: Comunicação, negociação, resiliência, proatividade, adaptabilidade, persuasão, liderança, trabalho em equipe
+- **Técnicas**: C#, SQL, HTML, CSS, Visual Studio, .NET, Git
+- **Comportamentais**: Comunicação, negociação, resiliência, proatividade, adaptabilidade, disciplina, liderança e trabalho em equipe
 
 ## Contato
 📧 alexanderaraldi@gmail.com  
